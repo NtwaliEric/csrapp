@@ -21,7 +21,7 @@
 						<th>Akarere</th>
 						<th>Umurenge</th>
 						<th>Akagari</th>
-						<th>Umuduggudu</th>
+						<th>Umudugudu</th>
 						<th>Italiki</th>
 					</tr>
 				<tbody>

@@ -23,7 +23,7 @@ $count->execute();
 
 $no=$count->rowCount();
 
-if($no >1 ){
+if($no >250 ){
 
  echo "<script>alert('Iri Teraniro Ryuzuye Mwakwiyandikisha Murikurikira'); window.location='cregister.php'</script>";   
 
